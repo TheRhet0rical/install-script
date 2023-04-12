@@ -18,6 +18,7 @@ As of right now, it installs...
 * WinRar
 * NodeJS Runtime
 * Visual C++ Redistributable Runtimes AIO Repack (courtesy of MajorGeeks)
+* GDevelop 5
 * Steam
 * BattleNet Launcher
 * Epic Games Launcher
