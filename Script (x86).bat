@@ -1,6 +1,6 @@
 @echo off
 
-echo Rhet0rical's Install Script Version 1.0
+echo Rhet0rical's Install Script Version 1.1
 echo Using this script will install various items by using your default browser
 echo to download various programs.
 echo:
@@ -24,6 +24,9 @@ start "" "https://nodejs.org/dist/v18.15.0/node-v18.15.0-x64.msi"
 
 echo Visual C++ Redistributable Runtimes AIO Repack...
 start "" "https://www.majorgeeks.com/index.php?ct=files&action=download&"
+
+echo GDevelop 5...
+start "" "https://gdevelop.io/download/windows"
 
 echo:
 echo Downloading Game and Social Networks Such As...
