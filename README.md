@@ -1,4 +1,5 @@
-# Rhet0rical's Install Script
+# Rhet0rical's Install Script (**ARCHIVED**)
+> This was archived because it's being remastered. You can check my repo list for the *setup-script*
 
 If your running Windows Version **10 or 11**, it should run right out of the box after extracting the root file since it utilizes batch. The script will be updated pretty often, or as often as i find new tools to use. It completes this task by utilizing the ```start``` command that opens the browser to a URL. This entire script basically works by downloading files using direct download links and runnning them in a browser.
 
