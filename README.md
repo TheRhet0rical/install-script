@@ -1,4 +1,4 @@
-# Rhet0rical's Install Script - *Version 2.0*
+# Rhet0rical's Install Script - *Version 2.0* **ARCHIVED**
 If your running Windows Version **10 or 11**, it should run right out of the box after extracting the root file since it utilizes batch. It completes this task by utilizing the ```start``` command that opens the **default browser** to a URL.
 
 When it runs, it'll run a ```pause``` statement before starting, so it won't immediately install everything until you tell it to.
